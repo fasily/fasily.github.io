@@ -68,7 +68,13 @@ $(document).ready(function() {
 
 </head>
 <body>
-
+<div id="zhufu" style="font-size:30px;">
+送祝福啦：<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp祝数据挖掘组所有小伙伴们圣诞节快乐！！！
+</div>
+<div style="text-align:right;font-size:30px;">
+—— 刘旭东
+</div>
 <div class="container">
 	<h1><span>fasily.github.io</span></h1>
 	<canvas id="snowfall"></canvas>
@@ -1594,7 +1600,7 @@ $(document).ready(function() {
 <script type="text/javascript" src="js/classie.js"></script>
 <script type="text/javascript" src="js/main.js"></script>
 
-</body>
+
 
 <div id="right">
 <div class="clock" style="align=center;">
