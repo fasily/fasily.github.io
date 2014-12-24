@@ -62,6 +62,9 @@ $(document).ready(function() {
 </div>
 <div id="essay">
 <h2>我的随笔：</h2><br>
+<ul> 
+<li></li>
+</ul>
 </div>
 </div>
 <div id="myself">
@@ -77,7 +80,7 @@ $(document).ready(function() {
 <div id="myblogtext">
 <h2>我的博文：</h2><br>
 <ul> 
-<li><a href="http://www.cnblogs.com/retarded/articles/4129413.html">EM算法介绍</a></li>
+<li>24 Dec 2014 >> <a href="http://www.cnblogs.com/retarded/articles/4129413.html">EM算法介绍</a></li>
 <li><a href="http://www.cnblogs.com/retarded/articles/4129413.html"></a></li>
 </ul>
 
