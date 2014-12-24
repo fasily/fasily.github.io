@@ -70,7 +70,7 @@ $(document).ready(function() {
 <body>
 <div id="zhufu" style="font-size:30px;">
 送祝福啦：<br>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp祝数据挖掘组所有小伙伴们圣诞节快乐！！！
+    祝数据挖掘组所有小伙伴们圣诞节快乐！！！
 </div>
 <div style="text-align:right;font-size:30px;">
 —— 刘旭东
@@ -1599,42 +1599,6 @@ $(document).ready(function() {
 <script type="text/javascript" src="js/snow.js"></script>
 <script type="text/javascript" src="js/classie.js"></script>
 <script type="text/javascript" src="js/main.js"></script>
-
-
-
-<div id="right">
-<div class="clock" style="align=center;">
-	<div id="Date"></div>
-	<ul>
-		<li id="hours" > </li>
-		<li id="point">:</li>
-		<li id="min"> </li>
-		<li id="point">:</li>
-		<li id="sec"> </li>
-	</ul>
-</div>
-<div id="essay">
-<h2>我的随笔：</h2><br>
-</div>
-</div>
-<div id="myself">
-<div id="photo" class="jpg">
-<img src="1.jpg" alt="Drawing" width="300px" />
-</div>
-<div id="describe" >
-<br>
-大家好,我是刘旭东，期待与大家交流，享受分享的快乐。现在我是北京理工大学的一名在读硕士，2015年毕业。热爱机器学习、数据挖掘，享受C++的博大精深，深知开源的力量，看好互联网的前景。
-喜欢看NBA，Huston Rockets的支持者，热爱运动，篮球、羽毛球、乒乓球都比较喜欢，水平一般般。现在的我在不断给自己充电，希望自己不断生根发芽。
-</div>
-</div>
-<div id="myblogtext">
-<h2>我的博文：</h2><br>
-<ul> 
-<li><a href="http://www.cnblogs.com/retarded/articles/4129413.html">EM算法介绍</a></li>
-<li><a href="http://www.cnblogs.com/retarded/articles/4129413.html"></a></li>
-</ul>
-
-</div>
 </body>
 
 
