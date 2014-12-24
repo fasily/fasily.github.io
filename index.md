@@ -70,7 +70,7 @@ $(document).ready(function() {
 <body>
 <div id="zhufu" style="font-size:30px;">
 送祝福啦：<br>
-    祝BFS所有小伙伴们圣诞节快乐,平安你我，真爱生活！！！
+    祝所有小伙伴们圣诞节快乐,平安你我，真爱生活！！！
 </div>
 <div style="text-align:right;font-size:30px;">
 —— 刘旭东
