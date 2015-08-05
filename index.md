@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 刘旭东
-tagline: —认真做自己
+tagline: —知人者智，自知者明。胜人者有力，自胜者强。
 ---
 
 <head>
@@ -61,10 +61,10 @@ $(document).ready(function() {
 		<li id="sec"> </li>
 	</ul>
 </div>
-<div id="essay">
+<div id="myblogtext">
 <h2>我的随笔：</h2><br>
 <ul> 
-<li></li>
+<li>1 Aug 2015 >> <a href="/sb/2015/08/01/hw">用心等待</a></li>
 </ul>
 </div>
 </div>
@@ -72,10 +72,10 @@ $(document).ready(function() {
 <div id="photo" class="jpg">
 <img src="1.jpg" alt="Drawing" width="300px" />
 </div>
-<div id="describe" >
+<div id="describe" style="font-size:15px">
 <br>
-大家好,我是刘旭东，期待与大家交流，享受分享的快乐。现在我是北京理工大学的一名在读硕士，2015年毕业。热爱机器学习、数据挖掘，享受C++的博大精深，深知开源的力量，看好互联网的前景。
-喜欢看NBA，Huston Rockets的支持者，热爱运动，篮球、羽毛球、乒乓球都比较喜欢，水平一般般。现在的我在不断给自己充电，希望自己不断生根发芽。
+大家好,我是刘旭东，2015年北京理工大学硕士毕业，现在就职于大唐电信集团旗下高鸿股份公司。热爱机器学习、数据挖掘，享受工程实践带来的乐趣，希望在互联网+时代实现自己的价值。
+喜欢看NBA，Huston Rockets的支持者，热爱运动，篮球、羽毛球、乒乓球都比较喜欢，坚信身体是革命的本钱。期待与大家交流，享受分享的快乐。
 </div>
 </div>
 <div id="myblogtext">
